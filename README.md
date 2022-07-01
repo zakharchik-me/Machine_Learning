@@ -1,2 +1,1 @@
-# Machine_Learning
-Machine_Learning projects
+#Spell check algorythm
