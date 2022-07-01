@@ -1,1 +1,1 @@
-#Spell check algorythm
+# Spell check algorythm
